@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="281" viewBox="0 0 880 281" role="img" aria-label="locate.me.at at a glance: Seven sourced chapters, Never asks where you are, Uncertainty made visible, Find it fast">
+<rect x="0.5" y="0.5" width="879" height="280" rx="12" fill="#ffffff" stroke="#e5e5e5"/>
+<rect x="24" y="24" width="196" height="233" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="44" dy="0">Seven sourced</tspan><tspan x="44" dy="22">chapters</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="44" dy="0">The API, permissions,</tspan><tspan x="44" dy="21">accuracy, motion,</tspan><tspan x="44" dy="21">coarse signals,</tspan><tspan x="44" dy="21">devices and the</tspan><tspan x="44" dy="21">privacy cost.</tspan></text>
+<rect x="236" y="24" width="196" height="233" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="256" dy="0">Never asks</tspan><tspan x="256" dy="22">where you are</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="256" dy="0">Reading the site</tspan><tspan x="256" dy="21">never calls the</tspan><tspan x="256" dy="21">location or motion</tspan><tspan x="256" dy="21">APIs, so there is no</tspan><tspan x="256" dy="21">prompt to grant.</tspan></text>
+<rect x="448" y="24" width="196" height="233" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="468" dy="0">Uncertainty</tspan><tspan x="468" dy="22">made visible</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="468" dy="0">An interactive figure</tspan><tspan x="468" dy="21">with fictional radii</tspan><tspan x="468" dy="21">shows what an</tspan><tspan x="468" dy="21">accuracy circle</tspan><tspan x="468" dy="21">really means.</tspan></text>
+<rect x="660" y="24" width="196" height="233" rx="10" fill="#fafafa" stroke="#e5e5e5"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#a3a3a3">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#d4d4d4" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#0a0a0a" font-weight="600"><tspan x="680" dy="0">Find it fast</tspan></text>
+<text x="680" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#525252"><tspan x="680" dy="0">Local search across</tspan><tspan x="680" dy="21">every section, and a</tspan><tspan x="680" dy="21">quick reference for</tspan><tspan x="680" dy="21">geolocation error</tspan><tspan x="680" dy="21">codes.</tspan></text>
+</svg>

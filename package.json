@@ -1,0 +1,7 @@
+{
+  "name": "locate-me-at",
+  "description": "An educational field guide to browser geolocation APIs, accuracy, permissions, and privacy cost",
+  "homepage": "https://locate.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
